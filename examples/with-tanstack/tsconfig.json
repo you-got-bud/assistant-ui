@@ -1,0 +1,9 @@
+{
+  "extends": "@assistant-ui/x-buildutils/ts/base",
+  "compilerOptions": {
+    "types": ["vite/client"],
+    "paths": { "@/*": ["./src/*"] }
+  },
+  "include": ["**/*.ts", "**/*.tsx"],
+  "exclude": ["node_modules"]
+}
