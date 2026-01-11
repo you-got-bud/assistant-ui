@@ -95,7 +95,7 @@
     "vitest": "^4.0.16"
   },
   "publishConfig": {
-    "access": "public",
+   "access": "public"
   },
   "homepage": "https://www.assistant-ui.com/",
   "repository": {
